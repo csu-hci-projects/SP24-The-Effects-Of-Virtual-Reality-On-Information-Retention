@@ -5,9 +5,30 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Test Scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: 9e42c78b05cfa124b9db16d4afa3cf76
+  - enabled: 1
+    path: Assets/Scenes/Peasant Painter 1883-1885.unity
+    guid: d0995a4b6aa0f9d40b117d1e9e54acee
+  - enabled: 1
+    path: Assets/Scenes/bridge scene.unity
+    guid: fcf9935dc7c014841a08f95edb952052
+  - enabled: 1
+    path: Assets/Scenes/Final Moments 1890.unity
+    guid: e65f4ac75c34bc44b9ce171a65f6d3e7
+  - enabled: 1
+    path: Assets/Scenes/beach scene.unity
+    guid: 02acaf398ca8f404a8ee01e5629bce1c
+  - enabled: 1
+    path: Assets/Scenes/Outside.unity
+    guid: 37fb8be842241234dbc478fbd193c118
+  - enabled: 1
+    path: Assets/Scenes/asylum.unity
+    guid: e9079c9199dff7e4080a3d0b52c27f17
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
       type: 2}
