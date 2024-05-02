@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1397
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 887
     width: 1633
     height: 460
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 139
+  controlID: 144
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -191,8 +191,8 @@ MonoBehaviour:
     y: 0
     width: 1633
     height: 887
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -242,8 +242,8 @@ MonoBehaviour:
     y: 0
     width: 421
     height: 1347
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -268,8 +268,8 @@ MonoBehaviour:
     y: 0
     width: 506
     height: 590
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -395,7 +395,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -403,16 +403,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Scenes
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Dean\Documents\GitHub\SP24-The-Effects-Of-Virtual-Reality-On-Information-Retention
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 98410000
-    m_LastClickedID: 16792
-    m_ExpandedIDs: 0000000010410000984100009a320100ba3201004e3301005233010000ca9a3bffffff7f
+    m_SelectedIDs: 7a410000
+    m_LastClickedID: 16762
+    m_ExpandedIDs: 000000001241000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -965,9 +965,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.8997524, y: 7.1387453, z: -6.7666655}
+    m_Target: {x: -5.0289207, y: 6.845939, z: -6.8821096}
     speed: 2
-    m_Value: {x: -3.8997524, y: 7.1387453, z: -6.7666655}
+    m_Value: {x: -5.0289207, y: 6.845939, z: -6.8821096}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1013,11 +1013,11 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.17263982, y: -0.23682077, z: 0.04278057, w: -0.95515585}
+    m_Target: {x: -0.28407148, y: 0.21478094, z: -0.06547731, w: -0.93216264}
     speed: 2
-    m_Value: {x: -0.17406876, y: -0.23675144, z: 0.04313489, w: -0.9548761}
+    m_Value: {x: -0.28266698, y: 0.21487442, z: -0.06515368, w: -0.93256813}
   m_Size:
-    m_Target: 0.7381991
+    m_Target: 0.70498013
     speed: 2
     m_Value: 0.7381991
   m_Ortho:
@@ -1084,7 +1084,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c6faebff7afbebffb27becff7cb5ecff24b7ecff92ceecff3cd0ecff844dedff2853edff86d9edffbee6edff72e7edffaa67eeff74a1eeff1ca3eeff8abaeeff34bceeff7c39efff203fefff9a45efff8a63efff9480efffc2fdefff7838f0ff843af0ffca3cf0fffe3ef0ff9441f0ff9644f0fff644f0ff7c46f0ff1049f0ffba76f0ff5479f0ff987ef0ff1e80f0ff2080f0ff48fef0ff5602f1ff7c03f1ff0c05f1ff6a16f1ff1e17f1ff821ef1ff7459f1ff7e59f1ff665ff1ffd49cf1ff78d7f1ff6279fcffc0f5fcff480afdff520afdff660afdff700afdff840afdff8e0afdff2619fdff7435fdffc83bfdff5c8bfdffce9afdff06f9fdffbe950100a696010038020300ee0203000480030048800300ba84030002850300d28e03008e8f0300d68f030054920300b0920300
+      m_ExpandedIDs: 3405faffe805faff1c86faffe2bffaff86c1fafff0d8faff96dafaffda57fbff7a5dfbff3e98fbffd698fbff302bfcffb83bfcff6c3cfcffc0bcfcff8af6fcff32f8fcffa00ffdff4a11fdff928efdff3694fdffd09afdffc89cfdffb6ad0100c8ad010062ae0100c6ae010074af01008eaf010000b0010054b00100aab00100b2b00100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
