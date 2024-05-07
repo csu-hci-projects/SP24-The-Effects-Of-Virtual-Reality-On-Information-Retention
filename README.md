@@ -15,7 +15,7 @@ Full Prototype Walkthrough:  \
 Van Gogh Presentation: \
     - YouTube: https://youtu.be/Yw49_jng5io \
     - Google Drive: https://drive.google.com/file/d/1tLQ1nLusV7p-2bYkwFnq9UZl1MKRn6TU/view?usp=sharing \
-Check in 1 Video: \
+Check-in 1 Video: \
     - YouTube: https://youtu.be/LS_ZMXpAGmA \
     - Google Drive: https://drive.google.com/file/d/1kPZfUWS12KcBVcHhHzOPJL0KfLQ7X0oZ/view?usp=sharing 
 
@@ -26,12 +26,12 @@ Google Drive Link to all Materials: https://drive.google.com/drive/folders/1oKh0
 ------TO RUN THE PROJECT----- \
 GOOGLE DRIVE LINK TO PROJECT EXE DOWNLOAD: https://drive.google.com/drive/folders/1tPnPduVJxchzwnDTy-gxY8Q20LOQG0Lr?usp=sharing 
 
- - This link is to the folder to download to run the project. Alternatively, the entire Unity project can be downloaded from our GitHub. 
+ - This link is to the folder to the download to run the project. Alternatively, the entire Unity project can be downloaded from our GitHub. 
     - To run the project, download this folder, unzip the downloaded folder, and then run the VR Room.exe file. 
     - The project has been tested on a Steam Valve Index VR Headset. It should work for other headsets, but we were unable to test other headsets. 
-    - A VR headset and controls are required to run this program. Setup might have to be different for other headsets. Steam VR will start along with the exe IF using a Steam Valve Index. 
+    - A VR headset and controllers are required to run this program. The setup might have to be different for other headsets. Steam VR will start along with the exe IF using a Steam Valve Index. 
     - Other headsets might have other settings required that we cannot test. 
-    - If on a Valve Index VR headset the controls are: 
-        - Push joycon left or right to rotate player, additionally rotating your head follows as well. 
-        - To teleport to the spinning reticle coming from your hand: close grip and press trigger. 
-    - On other headsets the controls might be mapped differently. 
+    - If on a Valve Index VR headset, the controls are: 
+        - Push Joycon left or right to rotate the player, additionally rotating your head follows as well. 
+        - To teleport to the spinning reticle coming from your hand: close your grip and press the trigger. 
+    - On other headsets, the controls might be mapped differently. 
