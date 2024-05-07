@@ -24,7 +24,7 @@ Reading Article (Used for Article Group): https://docs.google.com/document/d/1HA
 Google Drive Link to all Materials: https://drive.google.com/drive/folders/1oKh0R_JWRhp1aMeE6ARmX9BW6rr6QUOl?usp=sharing 
 
 ------TO RUN THE PROJECT----- \
-GOOGLE DRIVE LINK TO PROJECT EXE DOWNLOAD: https://drive.google.com/drive/folders/1tPnPduVJxchzwnDTy-gxY8Q20LOQG0Lr?usp=sharing 
+GOOGLE DRIVE LINK TO PROJECT EXE DOWNLOAD: https://drive.google.com/file/d/1DPZU7D4-DTiIgF0fYl5FV8i9DqAngRh0/view?usp=sharing 
 
  - This link is to the folder to the download to run the project. Alternatively, the entire Unity project can be downloaded from our GitHub. 
     - To run the project, download this folder, unzip the downloaded folder, and then run the VR Room.exe file. 
