@@ -28,10 +28,13 @@ GOOGLE DRIVE LINK TO PROJECT EXE DOWNLOAD: https://drive.google.com/file/d/1DPZU
 
  - This link is to the folder to the download to run the project. Alternatively, the entire Unity project can be downloaded from our GitHub. 
     - To run the project, download this folder, unzip the downloaded folder, and then run the VR Room.exe file. 
-    - The project has been tested on a Steam Valve Index VR Headset. It should work for other headsets, but we were unable to test other headsets. 
+    - The project has been tested on a Steam Valve Index VR Headset and a Meta Quest 3. It should work for other headsets, but we were unable to test other headsets. 
     - A VR headset and controllers are required to run this program. The setup might have to be different for other headsets. Steam VR will start along with the exe IF using a Steam Valve Index. 
     - Other headsets might have other settings required that we cannot test. 
     - If on a Valve Index VR headset, the controls are: 
         - Push Joycon left or right to rotate the player, additionally rotating your head follows as well. 
-        - To teleport to the spinning reticle coming from your hand: close your grip and press the trigger. 
+        - To teleport to the spinning reticle coming from your hand: Close your grip and press the trigger.
+    - If on the Meta Quest 3, the controls are:
+        - Push Joycon left or right to rotate the player, additionally rotating your head follows as well.
+        - To teleport to the spinning reticle coming from your hand: Press the trigger.
     - On other headsets, the controls might be mapped differently. 
