@@ -17,7 +17,7 @@ Van Gogh Presentation: \
     - Google Drive: https://drive.google.com/file/d/1tLQ1nLusV7p-2bYkwFnq9UZl1MKRn6TU/view?usp=sharing \
 Check in 1 Video: \
     - YouTube: https://youtu.be/LS_ZMXpAGmA \
-    - Google Drive: https://drive.google.com/file/d/1kPZfUWS12KcBVcHhHzOPJL0KfLQ7X0oZ/view?usp=sharing \
+    - Google Drive: https://drive.google.com/file/d/1kPZfUWS12KcBVcHhHzOPJL0KfLQ7X0oZ/view?usp=sharing 
 
 Reading Article (Used for Article Group): https://docs.google.com/document/d/1HA9WdSbf_tUx-fsBWo7Tegsl28D9wve-O3dG_2roaAI/edit 
 
